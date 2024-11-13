@@ -70,4 +70,8 @@ Happy Coding ❤️!
 
 <!-- push changes from local system to github -->
 
-1. open terminal
+1. open terminal [you should be seeing the folder name/ repo name]
+   1. git add .
+   2. git commit -m "<.........>"
+   3. git push origin <branch_name>
+
